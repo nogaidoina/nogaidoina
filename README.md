@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nogaidoina
 - 🌱 I’m currently learning: Python
-- 📫 How to reach me:
-              - mail: nndoina@gmail.com
-              - instagram: @doina.nogai
+- 📫 How to reach me: nndoina@gmail.com
+             
 
 
 <!---
